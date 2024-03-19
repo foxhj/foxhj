@@ -1,3 +1,3 @@
-## 👋 Hi, I’m **@foxhj**
-#### 🌱 I’m currently learning the fundamentals of information security.
-#### 📫 How to reach me foxhj at ProtonMail dot com
+### Hi, I'm **Fox J. (@foxhj)**
+
+#### Contact me at [foxhj@protonmail.com](mailto:foxhj@protonmail.com)
